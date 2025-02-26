@@ -1,0 +1,4 @@
+*.pkl
+ddpg/hockey_agent_final
+ddpg/plots/rewards_over_time.png
+ddpg/plots/win_rate_over_time.png
